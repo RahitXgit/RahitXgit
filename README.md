@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Django, Java<br>
+🌱 I’m currently learning Django, Java, Machine Learning<br>
 
 
 ## 🌐 Socials:
